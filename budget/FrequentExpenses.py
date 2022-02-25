@@ -33,6 +33,8 @@ plt.show()
 
 
 
-
-#python -m budget.FrequentExpenses
+# local testing module 
+# pytest -k module2
+# to run module
+# python -m budget.FrequentExpenses
     
